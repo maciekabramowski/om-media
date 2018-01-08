@@ -17,6 +17,7 @@
   .slider-wrapper, .blog-wrapper, .blog-excerpts-wrraper {
     flex-wrap: wrap;
     flex-direction: column;
+      display: block !important;
   }
   a.navbar-brand {
     padding: 0 0;
